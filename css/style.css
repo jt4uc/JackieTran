@@ -1,0 +1,20 @@
+html, body { 
+	height:100%; 
+	margin:0; 
+	padding:0; 
+}
+
+.jumbotron {
+	background-image: url("images/av.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #FFFFFF;
+	max-width: 100%;
+	height: 100%;
+
+}
+
+h1, p {
+	text-align: center;
+}
+
